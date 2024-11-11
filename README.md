@@ -3,8 +3,10 @@
 # Zebrocoin-DApp
 Zebrocoin DApp is a decentralized web3 app to swap, bridge, create token, create presale etc. on Zebro Smart Chain
 
-## WEbsite Link
+
+## Website Link
 https://zebrocoin.app
+
 
 ## Key Features
 1. Swap Tokens
@@ -21,7 +23,9 @@ https://zebrocoin.app
 12. Stake ZEBRO
 13. ZEBRO Mining
 
+
 ## Press Release
+
 
 ## Licensed Under
 Zebrocoin licensed under MIT License https://zebrotech.mit-license.org/
